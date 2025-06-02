@@ -1,6 +1,6 @@
 module github.com/xtls/xray-core
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344
@@ -22,8 +22,8 @@ require (
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925
 	golang.org/x/crypto v0.18.0
 	golang.org/x/net v0.17.0
-	golang.org/x/sync v0.3.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/sync v0.14.0
+	golang.org/x/sys v0.16.0
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
 	gvisor.dev/gvisor v0.0.0-20230822212503-5bf4e5f98744
