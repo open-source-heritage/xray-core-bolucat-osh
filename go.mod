@@ -10,7 +10,7 @@ require (
 	github.com/miekg/dns v1.1.56
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.7.0
-	github.com/quic-go/quic-go v0.40.0
+	github.com/quic-go/quic-go v0.52.0
 	github.com/refraction-networking/utls v1.5.4
 	github.com/sagernet/sing v0.5.1
 	github.com/sagernet/sing-shadowsocks v0.2.5
@@ -25,7 +25,7 @@ require (
 	golang.org/x/sync v0.15.0
 	golang.org/x/sys v0.33.0
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gvisor.dev/gvisor v0.0.0-20230822212503-5bf4e5f98744
 	h12.io/socks v1.0.3
 	lukechampine.com/blake3 v1.2.1
@@ -46,7 +46,6 @@ require (
 	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
 	github.com/onsi/ginkgo/v2 v2.12.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/quic-go/qtls-go1-20 v0.4.1 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	go.uber.org/mock v0.3.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
